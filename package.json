@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/blockchain-ninja/decode-transaction.git"
   },
-  "author": "",
+  "author": "blockchain-ninja",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/blockchain-ninja/decode-transaction/issues"
